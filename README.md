@@ -34,12 +34,12 @@ Ardından extended Kernel'i kullanmak için, ilgili programa sağ tık, "özelli
 İşte bu kadar! Buradan sonrası size ait dostlar. Toolbox sayesinde hızlıca programları kurabilirsiniz.
 
 Windows 7 Extended Kernel ISO dosyası: XTEND7_RELEASE_2024_FINAL.iso(https://drive.google.com/file/d/1_kpXYFCj-qL2zsY_AeqyPADp1HiNYot8/view?usp=sharing)
-Xtend güncellemelerini takip edebileceğiniz site adresi: Windows Xtend
+Xtend güncellemelerini takip edebileceğiniz site adresi: XTEND Project(https://xtendproject.com.tr/)
 
-Animasyon zip dosyası: BootLogo
-Animasyon için gereken program: Release v0 beta 3 - Initial Open-Source Release · coderforlife/windows-7-boot-updater
+Animasyon zip dosyası: BootLogo (https://www.mediafire.com/file/kj4ti5f1304747y/BootLogo.zip/file)
+Animasyon için gereken program: Release v0 beta 3 - Initial Open-Source Release · coderforlife/windows-7-boot-updater (https://github.com/coderforlife/windows-7-boot-updater/releases/tag/v0.0.1.3)
 
 Zipten çıkardıktan sonra programdan seçmeniz yeterli olacaktır.
 
-Tüm sorularınız için aşağıya yazabilirsiniz.
-](https://drive.google.com/file/d/1_kpXYFCj-qL2zsY_AeqyPADp1HiNYot8/view?usp=sharing)
+Tüm Sorunlar İçin XTEND Discord Sunucusuna Gelebilirsiniz.
+https://discord.gg/47JWGAbDVt
